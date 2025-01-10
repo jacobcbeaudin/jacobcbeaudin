@@ -71,11 +71,17 @@ I'm a multi-cloud engineer specializing in building scalable data and ML infrast
 ## 🏆 Certifications
 
 <div align="center">
-  <a href="https://www.credly.com/badges/c516ee1f-0a9c-4bb8-a34c-3610f8117d5a">
+  <a href="https://www.credly.com/badges/dc5f2174-1148-4b1b-835b-19b012cf4500">
     <img src="https://images.credly.com/size/680x680/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="100" alt="AWS Certified AI Practitioner">
   </a>
-  <a href="https://www.credly.com/badges/573fba46-44e2-4a8f-9806-6bf79b56e6f1">
-    <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" alt="AWS Solutions Architect Associate">
+  <a href="https://www.credly.com/badges/f179dc2b-5d4f-44a8-bfad-08fd372916de">
+    <img src="https://images.credly.com/size/680x680/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" width="100" alt="AWS Certified Machine Learning Engineer – Associate">
+  </a>
+  <a href="https://www.credly.com/badges/c516ee1f-0a9c-4bb8-a34c-3610f8117d5a">
+    <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" alt="AWS Certified Cloud Practitioner">
+  </a>
+  <a href="https://www.credly.com/badges/57174eb7-1e0e-4916-a1da-c617c1af4c3f">
+    <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" alt="AWS Certified Solutions Architect – Associate">
   </a>
   <a href="https://achieve.snowflake.com/4745f616-6e1b-43b8-ac6c-e1902fd76166">
     <img src="https://images.credly.com/images/7a2ed5ab-2bed-4b5c-84e9-fc7c71275da4/SnowProCoreTM600.png" width="100" alt="Snowflake SnowPro Core">
