@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jacob Beaudin
+# Jake Beaudin
 ### Machine Learning Engineer @ Gametime
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jacobcbeaudin/)
