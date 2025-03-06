@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jacob Beaudin
+# Jake Beaudin
 ### Machine Learning Engineer @ Gametime
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jacobcbeaudin/)
@@ -48,7 +48,7 @@ Machine learning engineer specializing in building production ML systems and clo
 
 ### Backend & Services
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![gRPC](https://img.shields.io/badge/-gRPC-244c5a?style=flat-square&logo=google&logoColor=white)
 
