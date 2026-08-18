@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="150" viewBox="0 0 830 150" role="img" aria-label="Jake Beaudin. I build the ML and AI stack end to end.">
+  <style>
+    .rule { transform-origin: 46px 0; }
+    @media (prefers-reduced-motion: no-preference) {
+      .rule { animation: grow 0.9s cubic-bezier(0.2,0.8,0.2,1) both; }
+      @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+      @keyframes hpulse { 0% { opacity: .7; transform: scale(1); } 70% { opacity: 0; transform: scale(2.4); } 100% { opacity: 0; transform: scale(2.4); } }
+    }
+  </style>
+  <defs>
+    <pattern id="dg" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#26384A"/></pattern>
+    <clipPath id="cp"><rect width="830" height="150" rx="12"/></clipPath>
+  </defs>
+  <rect width="830" height="150" rx="12" fill="#0D1B24"/>
+  <rect width="830" height="150" fill="url(#dg)" opacity="0.55" clip-path="url(#cp)"/>
+  <text x="46" y="70" font-family="Helvetica, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="-0.5" fill="#E6EEF4">Jake Beaudin</text>
+  <rect class="rule" x="46" y="84" width="250" height="4" fill="#4FB3D9"/>
+  <text x="46" y="116" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#4FB3D9">i build the ml &amp; ai stack end to end</text>
+  <rect x="0.5" y="0.5" width="829" height="149" rx="12" fill="none" stroke="#26384A"/>
+</svg>

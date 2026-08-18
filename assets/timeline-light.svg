@@ -1,0 +1,39 @@
+<svg width="830" height="130" viewBox="0 0 830 130" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Career timeline. 2018 aiPod (Idealab). 2019 to 2022 Mercedes-Benz R&amp;D. 2022 to 2023 Rivian. 2023 to now Gametime.">
+  <style>
+    .axis { stroke: #D9E7EF; stroke-width: 1.5; }
+    .fade { opacity: 1; }
+    @media (prefers-reduced-motion: no-preference) {
+      .axis { stroke-dasharray: 700; stroke-dashoffset: 0; animation: draw 1.1s ease-out both; }
+      .fade { animation: fadein 0.5s ease-out both; }
+      .d1 { animation-delay: 0.1s; } .d2 { animation-delay: 0.3s; }
+      .d3 { animation-delay: 0.5s; } .d4 { animation-delay: 0.7s; }
+      .pulse { animation: pulse 3s ease-out 1.2s infinite; }
+      @keyframes draw { from { stroke-dashoffset: 700; } to { stroke-dashoffset: 0; } }
+      @keyframes fadein { from { opacity: 0; } to { opacity: 1; } }
+      @keyframes pulse { 0% { r: 7; opacity: 0.7; } 70% { r: 17; opacity: 0; } 100% { r: 17; opacity: 0; } }
+    }
+  </style>
+  <rect width="830" height="130" rx="12" fill="#F6FAFC"/>
+  <rect x="0.5" y="0.5" width="829" height="129" rx="12" fill="none" stroke="#D9E7EF"/>
+  <line class="axis" x1="70" y1="52" x2="760" y2="52"/>
+  <g class="fade d1">
+    <circle cx="105" cy="52" r="5.5" fill="#1A7FA5"/>
+    <text x="105" y="86" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#7A93A5">2018</text>
+    <text x="105" y="105" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#152430">aiPod (Idealab)</text>
+  </g>
+<g class="fade d2">
+    <circle cx="310" cy="52" r="5.5" fill="#1A7FA5"/>
+    <text x="310" y="86" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#7A93A5">2019 – 22</text>
+    <text x="310" y="105" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#152430">Mercedes-Benz R&amp;D</text>
+  </g>
+<g class="fade d3">
+    <circle cx="515" cy="52" r="5.5" fill="#1A7FA5"/>
+    <text x="515" y="86" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#7A93A5">2022 – 23</text>
+    <text x="515" y="105" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#152430">Rivian</text>
+  </g>
+<g class="fade d4">
+    <circle class="pulse" cx="720" cy="52" r="7" fill="none" stroke="#1A7FA5" stroke-width="1.5"/><circle cx="720" cy="52" r="7" fill="#1A7FA5"/>
+    <text x="720" y="86" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#7A93A5">2023 – now</text>
+    <text x="720" y="105" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#152430">Gametime</text>
+  </g>
+</svg>
